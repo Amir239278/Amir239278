@@ -7,11 +7,12 @@
 
 ## 📌 À Propos
 
-Data Analyst spécialisé **Power BI & Data Quality**, avec un focus sur la fiabilisation des données et la mise à disposition de KPIs clairs pour les équipes métier (banque, retail, industriel).[web:42] Habitué à transformer des données brutes en indicateurs exploitables via des pipelines ETL robustes, des contrôles de qualité et des dashboards Power BI orientés décision.  
+Data Analyst spécialisé **Power BI & Data Quality**, avec un focus sur la fiabilisation des données et la mise à disposition de KPIs clairs pour les équipes métier (banque, retail, industriel). Habitué à transformer des données brutes en indicateurs exploitables via des pipelines ETL robustes, des contrôles de qualité et des dashboards Power BI orientés décision.  
 
 **Expérience professionnelle :**
 - **Vermeg** : QA Données Bancaires – Validation de la qualité des données, audits de conformité, tests de régression sur des pipelines ETL sensibles.
 - **Victoria's Secret** : BI & Dashboards KPI – Création de rapports Power BI, automatisation de reportings et accompagnement d’utilisateurs non techniques sur le pilotage par la donnée.
+- **PMI industrielle** (ex. matériaux / production) : Suivi de KPIs de production, analyse des coûts, fiabilité des données opérationnelles pour le pilotage industriel.
 
 **Actuellement :** Data Analyst (Power BI, SQL, Python), ouvert aux opportunités Data Analyst / BI Analyst en Île-de-France.
 
