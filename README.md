@@ -13,7 +13,7 @@ Data Analyst expérimenté avec 3+ ans d'expérience en ETL, reporting BI et ass
 - **Vermeg** : QA Données Bancaires – Validation de la qualité des données, audit de conformité, tests de régression sur pipelines ETL
 - **Victoria's Secret** : BI & Dashboards KPI – Création de rapports Power BI, accompagnement des équipes non-techniques, automatisation de reportings
 
-**Actuellement :** Data Analyst (Power BI, SQL, Python) en quête de poste en **alternance Data & IA Engineer (2026)** pour approfondir l'ML et l'orchestration de données.
+**Actuellement :** Data Analyst (Power BI, SQL, Python) en quête de poste de Data Analyst.
 
 ---
 
@@ -61,7 +61,6 @@ Système de recommandation de films hybride (KNN + collaborative filtering) avec
 
 ## 📈 Objectifs 2024–2026
 
-- ✔️ Master en Data Engineering (alternance à partir de 2026)
 - ✔️ Certification Power BI avancée
 - ✔️ Expertise en orchestration données (Airflow, dbt)
 - ✔️ Premiers projets ML en production
