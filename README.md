@@ -1,6 +1,6 @@
 # Amir Meraka – Data Analyst (Power BI, SQL, Python)
 
-Data Analyst certifié RNCP 6 avec un parcours bac+5 et une expérience multisectorielle en bancaire (QA données), retail (analyse ventes & KPIs) et industriel (pilotage opérationnel). Spécialisé en reporting décisionnel, pipelines ETL et qualité de données. Prochainement Data & IA Engineer en alternance (Wild Code School, mars 2026) pour approfondir le Data Engineering et les architectures cloud.
+Data Analyst certifié RNCP 6 avec un parcours bac+5 et une expérience multisectorielle en bancaire (QA données), retail (analyse ventes & KPIs) et industriel (pilotage opérationnel). Spécialisé en reporting décisionnel, pipelines ETL et qualité de données.
 
 ## Projets principaux
 
@@ -25,4 +25,4 @@ Data Analyst certifié RNCP 6 avec un parcours bac+5 et une expérience multisec
 
 ---
 
-📍 Versailles, Île-de-France | 🚀 Disponible pour stage/CDI/CDD Data Analyst | 🔨 Alternance Data Engineer dès mars 2026
+📍 Versailles, Île-de-France | 🚀 Disponible pour stage/CDI/CDD Data Analyst
