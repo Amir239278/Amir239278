@@ -7,13 +7,13 @@
 
 ## 📌 À Propos
 
-Data Analyst expérimenté avec 3+ ans d'expérience en ETL, reporting BI et assurance qualité des données. Spécialisé dans la transformation de données brutes en insights actionnables pour les secteurs bancaire, retail et industriel. Titulaire d'un titre RNCP6 en Data Analyst, je maîtrise les pipelines ETL, les dashboards Power BI et la qualité des données pour optimiser les processus métier.
+Data Analyst spécialisé **Power BI & Data Quality**, avec un focus sur la fiabilisation des données et la mise à disposition de KPIs clairs pour les équipes métier (banque, retail, industriel).[web:42] Habitué à transformer des données brutes en indicateurs exploitables via des pipelines ETL robustes, des contrôles de qualité et des dashboards Power BI orientés décision.  
 
 **Expérience professionnelle :**
-- **Vermeg** : QA Données Bancaires – Validation de la qualité des données, audit de conformité, tests de régression sur pipelines ETL
-- **Victoria's Secret** : BI & Dashboards KPI – Création de rapports Power BI, accompagnement des équipes non-techniques, automatisation de reportings
+- **Vermeg** : QA Données Bancaires – Validation de la qualité des données, audits de conformité, tests de régression sur des pipelines ETL sensibles.
+- **Victoria's Secret** : BI & Dashboards KPI – Création de rapports Power BI, automatisation de reportings et accompagnement d’utilisateurs non techniques sur le pilotage par la donnée.
 
-**Actuellement :** Data Analyst (Power BI, SQL, Python) en quête de poste de Data Analyst.
+**Actuellement :** Data Analyst (Power BI, SQL, Python), ouvert aux opportunités Data Analyst / BI Analyst en Île-de-France.
 
 ---
 
@@ -21,60 +21,60 @@ Data Analyst expérimenté avec 3+ ans d'expérience en ETL, reporting BI et ass
 
 | Domaine | Outils & Langages |
 |---------|-------------------|
-| **BI & Reporting** | Power BI, Tableau, Excel Avancé |
+| **BI & Reporting** | Power BI, Tableau, Excel avancé |
 | **Données & SQL** | SQL Server, PostgreSQL, MySQL, BigQuery |
 | **Python** | Pandas, NumPy, Scikit-learn, Streamlit |
-| **ETL & Orchestration** | Talend, Python (scripts ETL), Airflow (notions) |
+| **ETL & Orchestration** | Talend, scripts ETL Python, Airflow (notions) |
 | **Cloud & DevOps** | AWS (S3, RDS), Docker, Git |
-| **Autres** | Statistics, Data Visualization |
+| **Autres** | Statistiques, Data Visualization |
 
 ---
 
 ## 📊 Projets Principaux
 
-### 1️⃣ **ETL NYC Taxi Data Pipeline**
-Pipeline ETL production transformant données NYC Taxi (50M+ records) avec validation qualité et dashboard Power BI pour analyser la mobilité urbaine et optimiser les KPIs de transport.
-- **Stack :** Python (Pandas), PostgreSQL, Power BI, Docker
+### 1️⃣ ETL NYC Taxi Data Pipeline
+Pipeline ETL data-driven sur les données NYC Taxi avec validation de la qualité, stockage optimisé et dashboard Power BI pour analyser la mobilité urbaine et suivre les KPIs de transport.  
+- **Stack :** Python (Pandas), PostgreSQL, Power BI, Docker  
 - 🔗 [Voir le repo](https://github.com/Amir239278/etl-pipeline-powerbi)
 
-### 2️⃣ **Real Estate Price Prediction**
-Modèle ML prédictif (immobilier FR) avec pipeline complet : nettoyage, feature engineering, déploiement Streamlit pour estimer les prix immobiliers et suivre les tendances marché.
-- **Stack :** Python (Scikit-learn, Pandas), SQL, Streamlit
+### 2️⃣ Real Estate Price Prediction
+Projet de prédiction de prix immobiliers (France) incluant EDA, feature engineering, modèle ML et interface Streamlit pour estimer les prix et suivre les tendances du marché.  
+- **Stack :** Python (Scikit-learn, Pandas), SQL, Streamlit  
 - 🔗 [Voir le repo](https://github.com/Amir239278/real-estate-price-prediction)
 
-### 3️⃣ **Movie Recommender System**
-Système de recommandation de films hybride (KNN + collaborative filtering) avec interface Streamlit pour améliorer l'expérience utilisateur et analyser les tendances cinéma.
-- **Stack :** Python, SQL, Power BI, Matplotlib/Seaborn
+### 3️⃣ Movie Recommender System
+Système de recommandation de films hybride (KNN + collaborative filtering) avec interface Streamlit pour explorer les préférences utilisateurs et analyser les tendances cinéma.  
+- **Stack :** Python, SQL, Power BI, Matplotlib/Seaborn  
 - 🔗 [Voir le repo](https://github.com/Amir239278/data-movies)
 
 ---
 
 ## 🎯 Compétences Clés
 
-✅ **Data Engineering :** Design ETL, optimisation requêtes SQL, data quality control  
-✅ **Business Intelligence :** Dashboards interactifs, KPI tracking, data storytelling  
-✅ **Analyse Données :** Statistiques descriptives, EDA, visualisations  
-✅ **Développement :** Python, Git, Docker, intégration CI/CD notions  
-✅ **Soft Skills :** Communication métier, documentation, travail en équipe agile  
+✅ **Data Engineering :** Conception de flux ETL, optimisation SQL, contrôles de qualité de données  
+✅ **Business Intelligence :** Dashboards interactifs, suivi de KPIs, data storytelling pour les métiers  
+✅ **Analyse de données :** EDA, statistiques descriptives, visualisations claires et actionnables  
+✅ **Développement :** Python, Git, Docker, notions CI/CD pour l’industrialisation des projets data  
+✅ **Soft Skills :** Communication avec les métiers, vulgarisation, documentation, travail en environnement agile  
 
 ---
 
 ## 📈 Objectifs 2024–2026
 
-- ✔️ Certification Power BI avancée
-- ✔️ Expertise en orchestration données (Airflow, dbt)
-- ✔️ Premiers projets ML en production
+- ✔️ Renforcer l’expertise Power BI (modélisation, DAX avancé, gouvernance)  
+- ✔️ Approfondir l’orchestration de données (Airflow, dbt)  
+- ✔️ Mettre en production plusieurs projets ML / analytiques de bout en bout  
 
 ---
 
 ## 📧 Contact
 
-📬 **Email :** amir.meraka@email.com  
+📬 **Email :** [amir.meraka@email.com](mailto:amir.meraka@email.com)  
 💼 **LinkedIn :** [Amir Meraka](https://linkedin.com/in/amir-meraka)  
 🐙 **GitHub :** [@Amir239278](https://github.com/Amir239278)  
 
-Versailles, Île-de-France | Disponible pour stage/CDI/CDD Data Analyst
+Versailles, Île-de-France | Disponible pour stage / CDI / CDD Data Analyst
 
 ---
 
-*Dernière mise à jour : Mars 2024*
+*Dernière mise à jour : 2026*
