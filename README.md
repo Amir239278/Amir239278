@@ -1,4 +1,4 @@
-# Amir Meraka – Data Analyst (Power BI, SQL, Python)
+# Amir Meraka – Data & AI apprentice @ HETIC · Data & Business Analyst · SQL · Python · Power BI
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square)](https://linkedin.com/in/amir-meraka)
 [![GitHub](https://img.shields.io/badge/GitHub-Amir239278-black?style=flat-square)](https://github.com/Amir239278)
@@ -7,7 +7,26 @@
 
 ## 📌 À Propos
 
-Data Analyst spécialisé **Power BI, SQL & Data Quality**, avec un focus sur la fiabilisation des données et la mise à disposition de KPIs clairs pour les équipes métier (banque, retail, industriel). Habitué à transformer des données brutes en indicateurs exploitables via des pipelines ETL robustes, des contrôles de qualité et des dashboards interactifs orientés décision.
+# Hi, I'm Amir 👋
+
+I'm a **Data & AI apprentice at HETIC** in Paris, with a background in data analysis and business performance.
+
+- 🎓 Master's level background in data & AI (work-study at HETIC)
+- 📊 Experience in data quality for banking and commercial performance monitoring
+- 🧮 Tools: SQL, Python (Pandas, NumPy, scikit-learn), Power BI, Excel (VBA)
+- 🤖 Interests: analytics, machine learning, product data, marketing analytics
+
+I'm looking for a **work-study position in data (analytics, AI, product data, marketing analytics)** where I can work on real business problems with impact.
+
+---
+
+## Tech stack
+
+- Languages: Python, SQL
+- Data: Pandas, NumPy, scikit-learn
+- Visualization: Power BI, Matplotlib, Seaborn
+- Other: Git, Excel (advanced, VBA)
+
 
 **Expérience professionnelle :**
 
