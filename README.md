@@ -13,8 +13,8 @@ I'm a **Data & AI apprentice at HETIC** in Paris, with a background in data anal
 
 - 🎓 Master's level background in data & AI (work-study at HETIC)
 - 📊 Experience in data quality for banking and commercial performance monitoring
-- 🧮 Tools: SQL, Python (Pandas, NumPy, scikit-learn), Power BI, Excel (VBA)
-- 🤖 Interests: analytics, machine learning, product data, marketing analytics
+- 🧮 Tools: SQL, Python (Pandas, NumPy, scikit-learn), Power BI, Looker Studio, Excel (VBA)
+- 🤖 Interests: analytics, machine learning, product data, marketing analytics, web analytics
 
 I'm looking for a **work-study position in data (analytics, AI, product data, marketing analytics)** where I can work on real business problems with impact.
 
@@ -24,8 +24,9 @@ I'm looking for a **work-study position in data (analytics, AI, product data, ma
 
 - Languages: Python, SQL
 - Data: Pandas, NumPy, scikit-learn
-- Visualization: Power BI, Matplotlib, Seaborn
-- Other: Git, Excel (advanced, VBA)
+- Visualization: Power BI, Looker Studio, Matplotlib, Seaborn
+- Web Analytics: Google Analytics, Hotjar
+- Other: Git, Docker, AWS, Excel (advanced, VBA)
 
 
 **Expérience professionnelle :**
@@ -42,11 +43,12 @@ I'm looking for a **work-study position in data (analytics, AI, product data, ma
 
 | Domaine | Outils & Langages |
 | --- | --- |
-| **BI & Reporting** | Power BI (DAX, modélisation), Tableau, Excel expert |
+| **BI & Reporting** | Power BI (DAX, modélisation), Looker Studio, Excel expert |
 | **Données & SQL** | SQL Server, PostgreSQL, MySQL, BigQuery |
 | **Python** | Pandas, NumPy, Scikit-learn, Streamlit |
 | **ETL & Orchestration** | Pipelines ETL Python, Talend (notions), Airflow (notions) |
 | **Cloud & DevOps** | AWS (S3, RDS), Docker, Git |
+| **Web Analytics** | Google Analytics, Hotjar, CTR/CVR/CPA/ROI analysis |
 | **Data Quality** | Contrôle d'intégrité, nettoyage, validation, conformité RGPD |
 | **Autres** | Statistiques, Data Visualization, Data Storytelling |
 
@@ -54,7 +56,15 @@ I'm looking for a **work-study position in data (analytics, AI, product data, ma
 
 ## 📊 Projets Principaux
 
-### 1️⃣ ETL NYC Taxi Data Pipeline
+### 1️⃣ Web Analytics – Marketing Campaign Analysis *(nouveau)*
+
+Analyse des performances de 200 000 campagnes marketing digitales : CTR, CVR, CPA, ROI par canal. Dashboards style Looker Studio + heatmap comportementale Hotjar générée à partir des données réelles.
+
+* **Stack :** Python (Pandas, Matplotlib, Seaborn), Looker Studio, Hotjar
+* **Compétences :** Web Analytics, funnel analysis, heatmap, data visualisation
+* 🔗 [Voir le repo](https://github.com/Amir239278/web-analytics-marketing-campaign)
+
+### 2️⃣ ETL NYC Taxi Data Pipeline
 
 Pipeline ETL data-driven sur les données NYC Taxi avec validation de la qualité, stockage optimisé et dashboard Power BI pour analyser la mobilité urbaine et suivre les KPIs de transport.
 
@@ -62,15 +72,15 @@ Pipeline ETL data-driven sur les données NYC Taxi avec validation de la qualit�
 * **Compétences :** ETL, nettoyage de données, modélisation, visualisation
 * 🔗 [Voir le repo](https://github.com/Amir239278/etl-pipeline-powerbi)
 
-### 2️⃣ Real Estate Price Prediction
+### 3️⃣ Real Estate Price Prediction
 
 Projet de prédiction de prix immobiliers (France) incluant EDA, feature engineering, modèle ML (R² 0.87) et interface Streamlit pour estimer les prix et suivre les tendances du marché.
 
 * **Stack :** Python (Scikit-learn, Pandas), Streamlit, Docker, AWS
 * **Compétences :** Machine Learning, feature engineering, déploiement
-* 🔗 [Voir le repo](https://github.com/Amir239278/real-estate-prediction)
+* 🔗 [Voir le repo](https://github.com/Amir239278/real-estate-price-prediction)
 
-### 3️⃣ Movie Recommender System
+### 4️⃣ Movie Recommender System
 
 Système de recommandation de films hybride (KNN + collaborative filtering) avec interface Streamlit pour explorer les préférences utilisateurs et analyser les tendances cinéma.
 
@@ -82,6 +92,7 @@ Système de recommandation de films hybride (KNN + collaborative filtering) avec
 
 ## 🎯 Compétences Clés
 
+✅ **Web Analytics :** CTR, CVR, CPA, ROI, funnel analysis, heatmaps comportementales, Looker Studio, Hotjar  
 ✅ **Data Engineering :** Conception de flux ETL, optimisation SQL, contrôles de qualité de données  
 ✅ **Business Intelligence :** Dashboards interactifs Power BI, suivi de KPIs, data storytelling pour les métiers  
 ✅ **Analyse de données :** EDA, statistiques descriptives, visualisations claires et actionnables  
@@ -92,9 +103,9 @@ Système de recommandation de films hybride (KNN + collaborative filtering) avec
 
 ## 📈 Objectifs Professionnels
 
-* ✔️ Décrocher un poste CDI Data Analyst / BI Analyst en Île-de-France
+* ✔️ Décrocher un contrat d'alternance Data & IA (Mastère HETIC, octobre 2026)
+* ✔️ Approfondir l'expertise web analytics et marketing data (Looker Studio, GA4, Hotjar)
 * ✔️ Approfondir l'expertise Power BI (DAX avancé, modélisation complexe, gouvernance)
-* ✔️ Contribuer à des projets data à fort impact social (ESS, transition énergétique)
 * ✔️ Renforcer les compétences en orchestration de données (Airflow, dbt)
 
 ---
@@ -107,12 +118,13 @@ Système de recommandation de films hybride (KNN + collaborative filtering) avec
 📞 **Téléphone :** 07 69 10 18 41
 
 📍 **Localisation :** Versailles, Île-de-France  
-🚀 **Statut :** Disponible immédiatement pour CDI / CDD / Stage Data Analyst
+🚀 **Statut :** Disponible pour alternance (contrat de professionnalisation, oct. 2026) – Mastère Data & IA @ HETIC
 
 ---
 
 ## 🎓 Formation & Certifications
 
+* **Mastère Data & IA** – HETIC (en cours, 2026)
 * **Titre Professionnel Data Analyst (RNCP 6)** – Wild Code School / Simplon (2025)
 * **Certification RGPD** – CNIL (2025)
 * **Certification ISTQB Foundation Level** – Aldemia (2023)
@@ -120,4 +132,4 @@ Système de recommandation de films hybride (KNN + collaborative filtering) avec
 
 ---
 
-*Dernière mise à jour : Janvier 2026*
+*Dernière mise à jour : Avril 2026*
