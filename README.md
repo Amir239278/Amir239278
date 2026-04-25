@@ -1,4 +1,4 @@
-# Amir Meraka – Data & AI apprentice @ HETIC · Data & Business Analyst · SQL · Python · Power BI
+# Amir Meraka – Data & AI apprentice @ HETIC · Data & Business Analyst · SQL | Python | Power BI
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square)](https://linkedin.com/in/amir-meraka)
 [![GitHub](https://img.shields.io/badge/GitHub-Amir239278-black?style=flat-square)](https://github.com/Amir239278)
@@ -7,106 +7,94 @@
 
 ## 📌 À Propos
 
-# Hi, I'm Amir 👋
+**Data Analyst (titre RNCP 6)** avec une expérience multi-sectorielle — banque, retail, industrie. J'analyse des KPIs, construis des dashboards et transforme la donnée en aide à la décision pour les équipes métier.
 
-I'm a **Data & AI apprentice at HETIC** in Paris, with a background in data analysis and business performance.
+Je prépare un **Mastère Data & IA à HETIC en alternance** (rentrée oct. 2026) pour approfondir l'analyse de données et l'IA appliquée aux besoins métiers.
 
-- 🎓 Master's level background in data & AI (work-study at HETIC)
-- 📊 Experience in data quality for banking and commercial performance monitoring
-- 🧮 Tools: SQL, Python (Pandas, NumPy, scikit-learn), Power BI, Looker Studio, Excel (VBA)
-- 🤖 Interests: analytics, machine learning, product data, marketing analytics, web analytics
-
-I'm looking for a **work-study position in data (analytics, AI, product data, marketing analytics)** where I can work on real business problems with impact.
+🚀 **Statut :** Disponible pour alternance — contrat de professionnalisation 2 ans (rythme 3 sem. entreprise / 1 sem. école), oct. 2026
 
 ---
 
-## Tech stack
-
-- Languages: Python, SQL
-- Data: Pandas, NumPy, scikit-learn
-- Visualization: Power BI, Looker Studio, Matplotlib, Seaborn
-- Web Analytics: Google Analytics, Hotjar
-- Other: Git, Docker, AWS, Excel (advanced, VBA)
-
-
-**Expérience professionnelle :**
-
-* **Victoria's Secret (2022-2025)** : Analyse de données & Dashboards KPI – Création de tableaux de bord Excel, automatisation de reportings, analyse des performances commerciales et accompagnement d'utilisateurs non techniques sur le pilotage par la donnée.
-* **Vermeg (2020-2022)** : QA Données Bancaires – Validation de la qualité des données, audits de conformité, tests de régression sur des pipelines ETL sensibles pour institutions financières européennes.
-* **PME Industrielle (2014-2020)** : Suivi de KPIs de production, analyse des coûts, fiabilité des données opérationnelles pour le pilotage industriel.
-
-**Actuellement :** Data Analyst (Power BI, SQL, Python), **disponible immédiatement** pour CDI/CDD/Stage en Île-de-France.
-
----
-
-## 🛠️ Stack Technique
+## 🛠️ Compétences Techniques
 
 | Domaine | Outils & Langages |
 | --- | --- |
-| **BI & Reporting** | Power BI (DAX, modélisation), Looker Studio, Excel expert |
-| **Données & SQL** | SQL Server, PostgreSQL, MySQL, BigQuery |
-| **Python** | Pandas, NumPy, Scikit-learn, Streamlit |
-| **ETL & Orchestration** | Pipelines ETL Python, Talend (notions), Airflow (notions) |
-| **Cloud & DevOps** | AWS (S3, RDS), Docker, Git |
-| **Web Analytics** | Google Analytics, Hotjar, CTR/CVR/CPA/ROI analysis |
-| **Data Quality** | Contrôle d'intégrité, nettoyage, validation, conformité RGPD |
-| **Autres** | Statistiques, Data Visualization, Data Storytelling |
+| **Extraction & manipulation** | SQL avancé, Python (Pandas, NumPy) |
+| **Analyse & modélisation** | Statistiques, segmentation, KPIs, Scikit-learn |
+| **Dashboards & restitution** | Power BI (DAX), Looker Studio, Excel avancé (TCD, VBA) |
+| **Pipelines & déploiement** | ETL Python, Streamlit, AWS, Git/GitHub |
+| **Web Analytics** | Google Analytics, Hotjar, CTR/CVR/CPA/ROI |
+| **Data Quality** | Contrôle d'intégrité, validation, conformité RGPD |
+
+**Langues :** Français natif · Anglais professionnel · Arabe natif
 
 ---
 
-## 📊 Projets Principaux
+## 💼 Expériences Professionnelles
 
-### 1️⃣ Web Analytics – Marketing Campaign Analysis *(nouveau)*
+### Visual Merchandiser et Analyste Ventes — Victoria's Secret, Paris La Défense (2022 – 2025)
+
+- Suivi hebdomadaire CA, conversion, panier moyen et fidélisation, utilisé pour les plans d'action équipe et les arbitrages merchandising
+- Dashboards pour la direction et les équipes commerciales, permettant des ajustements en cours de semaine
+- Analyses ventes utilisées pour prioriser les implantations produits et les rotations
+- Mise en scène des vitrines et agencement des produits en magasin
+
+### Testeur QA / Validation Données Bancaires — Vermeg, éditeur de logiciels financiers, Tunisie (2020 – 2022)
+
+- Tests bout en bout sur la suite MEGARA (MegaCustody, MegaCM, MegaCor) pour des déploiements en banques centrales, dont Bank of England
+- Contrôles SQL sur flux sensibles (règlement-livraison, collatéral, corporate actions), anomalies détectées avant mise en production
+- Vérification de la conformité réglementaire et de l'intégration Target2-Securities
+- Migrations de données et protocoles de recette documentés pour l'équipe QA
+
+### Responsable Pilotage Commercial et Production — PME industrielle (matériaux de construction), Algérie (2014 – 2020)
+
+- Pilotage de la chaîne complète : approvisionnement, production, stocks, ventes, équipe
+- Reporting stocks, marges et KPIs, utilisé pour identifier les produits à faible marge et ajuster les priorités commerciales
+- Encadrement équipe et coordination production
+- Points réguliers avec la direction, arbitrages appuyés sur les chiffres
+
+---
+
+## 📊 Projets Data
+
+### 1️⃣ Web Analytics – Marketing Campaign Analysis *(2025)*
 
 Analyse des performances de 200 000 campagnes marketing digitales : CTR, CVR, CPA, ROI par canal. Dashboards style Looker Studio + heatmap comportementale Hotjar générée à partir des données réelles.
 
-* **Stack :** Python (Pandas, Matplotlib, Seaborn), Looker Studio, Hotjar
-* **Compétences :** Web Analytics, funnel analysis, heatmap, data visualisation
-* 🔗 [Voir le repo](https://github.com/Amir239278/web-analytics-marketing-campaign)
+- **Stack :** Python (Pandas, Matplotlib, Seaborn), Looker Studio, Hotjar
+- **Compétences :** Web Analytics, funnel analysis, heatmap, data visualisation
+- 🔗 [Voir le repo](https://github.com/Amir239278/web-analytics-marketing-campaign)
 
-### 2️⃣ ETL NYC Taxi Data Pipeline
+### 2️⃣ Pipeline ETL et dashboard Power BI – NYC Taxi *(2025)*
 
-Pipeline ETL data-driven sur les données NYC Taxi avec validation de la qualité, stockage optimisé et dashboard Power BI pour analyser la mobilité urbaine et suivre les KPIs de transport.
+Pipeline SQL/Python sur données réelles, modélisation, tableau de bord Power BI interactif, automatisation du reporting.
 
-* **Stack :** Python (Pandas), SQL, Power BI (DAX), Docker
-* **Compétences :** ETL, nettoyage de données, modélisation, visualisation
-* 🔗 [Voir le repo](https://github.com/Amir239278/etl-pipeline-powerbi)
+- **Stack :** Python (Pandas), SQL, Power BI (DAX), Docker
+- 🔗 [Voir le repo](https://github.com/Amir239278/etl-pipeline-powerbi)
 
-### 3️⃣ Real Estate Price Prediction
+### 3️⃣ Modèle prédictif immobilier – Streamlit sur AWS *(2025)*
 
-Projet de prédiction de prix immobiliers (France) incluant EDA, feature engineering, modèle ML (R² 0.87) et interface Streamlit pour estimer les prix et suivre les tendances du marché.
+Régression Scikit-learn (R² = 0,87), application web déployée sur AWS pour estimer les prix et suivre les tendances du marché.
 
-* **Stack :** Python (Scikit-learn, Pandas), Streamlit, Docker, AWS
-* **Compétences :** Machine Learning, feature engineering, déploiement
-* 🔗 [Voir le repo](https://github.com/Amir239278/real-estate-price-prediction)
+- **Stack :** Python (Scikit-learn, Pandas), Streamlit, Docker, AWS
+- 🔗 [Voir le repo](https://github.com/Amir239278/real-estate-price-prediction)
 
-### 4️⃣ Movie Recommender System
+### 4️⃣ Movie Recommender System *(2025)*
 
-Système de recommandation de films hybride (KNN + collaborative filtering) avec interface Streamlit pour explorer les préférences utilisateurs et analyser les tendances cinéma.
+Système de recommandation hybride (KNN + collaborative filtering) avec interface Streamlit.
 
-* **Stack :** Python (Pandas, Scikit-learn), Streamlit, SQL
-* **Compétences :** Recommandation, KNN, optimisation RMSE/MAE
-* 🔗 [Voir le repo](https://github.com/Amir239278/data_Movies)
+- **Stack :** Python (Pandas, Scikit-learn), Streamlit, SQL
+- 🔗 [Voir le repo](https://github.com/Amir239278/data_Movies)
 
 ---
 
-## 🎯 Compétences Clés
+## 🎓 Formation & Certifications
 
-✅ **Web Analytics :** CTR, CVR, CPA, ROI, funnel analysis, heatmaps comportementales, Looker Studio, Hotjar  
-✅ **Data Engineering :** Conception de flux ETL, optimisation SQL, contrôles de qualité de données  
-✅ **Business Intelligence :** Dashboards interactifs Power BI, suivi de KPIs, data storytelling pour les métiers  
-✅ **Analyse de données :** EDA, statistiques descriptives, visualisations claires et actionnables  
-✅ **Développement :** Python, Git, Docker, automatisation de workflows  
-✅ **Soft Skills :** Communication avec les métiers, vulgarisation technique, documentation, autonomie
-
----
-
-## 📈 Objectifs Professionnels
-
-* ✔️ Décrocher un contrat d'alternance Data & IA (Mastère HETIC, octobre 2026)
-* ✔️ Approfondir l'expertise web analytics et marketing data (Looker Studio, GA4, Hotjar)
-* ✔️ Approfondir l'expertise Power BI (DAX avancé, modélisation complexe, gouvernance)
-* ✔️ Renforcer les compétences en orchestration de données (Airflow, dbt)
+- **Mastère Data & IA** (RNCP 7) — HETIC, Montreuil *(en cours, 2026 – 2028)*
+- **Titre Professionnel Data Analyst** (RNCP 6) — Wild Code School / Simplon, Paris (2025)
+- **Certification RGPD** — CNIL (2025)
+- **Certification ISTQB Foundation Level** — Aldemia (2023)
+- **Master Microbiologie** (Bac+5) — Université Badji Mokhtar, Algérie (2012)
 
 ---
 
@@ -115,20 +103,8 @@ Système de recommandation de films hybride (KNN + collaborative filtering) avec
 📬 **Email :** [meraka.amir@gmail.com](mailto:meraka.amir@gmail.com)  
 💼 **LinkedIn :** [Amir Meraka](https://linkedin.com/in/amir-meraka)  
 🐙 **GitHub :** [@Amir239278](https://github.com/Amir239278)  
-📞 **Téléphone :** 07 69 10 18 41
-
-📍 **Localisation :** Versailles, Île-de-France  
-🚀 **Statut :** Disponible pour alternance (contrat de professionnalisation, oct. 2026) – Mastère Data & IA @ HETIC
-
----
-
-## 🎓 Formation & Certifications
-
-* **Mastère Data & IA** – HETIC (en cours, 2026)
-* **Titre Professionnel Data Analyst (RNCP 6)** – Wild Code School / Simplon (2025)
-* **Certification RGPD** – CNIL (2025)
-* **Certification ISTQB Foundation Level** – Aldemia (2023)
-* **Master Microbiologie (Bac+5)** – Université Badji Mokhtar (2012)
+📞 **Téléphone :** 07 69 10 18 41  
+📍 **Localisation :** Versailles (78), Île-de-France
 
 ---
 
